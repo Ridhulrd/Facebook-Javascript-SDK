@@ -1,6 +1,3 @@
-# Facebook-Javascript-SDK
-Posting to Facebook Page using Javascript Sdk
-
 <!DOCTYPE html>
 <html>
 	<head>
